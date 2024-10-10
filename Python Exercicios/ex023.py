@@ -1,0 +1,5 @@
+n = (input('Quais os dígitos escolhidos? '))
+print('O milhar é: {} '.format(n[0]))
+print('A dezena é: {}'.format(n[1]))
+print('A centena é: {}'.format(n[2]))
+print('A unidade é: {}'.format(n[3]))
